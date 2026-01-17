@@ -1,0 +1,23 @@
+:root {
+    /* Цветовая палитра (заполним по вашему макету) */
+    --color-primary: #4a6de5;       /* Основной синий */
+    --color-secondary: #6c757d;     /* Вторичный серый */
+    --color-accent: #ff6b6b;        /* Акцентный */
+    --color-dark: #212529;          /* Тёмный текст */
+    --color-light: #f8f9fa;         /* Светлый фон */
+    
+    /* Отступы */
+    --spacing-xs: 0.5rem;    /* 8px */
+    --spacing-sm: 1rem;      /* 16px */
+    --spacing-md: 2rem;      /* 32px */
+    --spacing-lg: 4rem;      /* 64px */
+    
+    /* Шрифты (уточним из Figma) */
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Roboto', sans-serif;
+    
+    /* Тени */
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+    --shadow-md: 0 4px 8px rgba(0,0,0,0.15);
+    --shadow-lg: 0 8px 16px rgba(0,0,0,0.2);
+}
